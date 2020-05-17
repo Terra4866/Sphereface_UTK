@@ -1,0 +1,9 @@
+Currently using GPU: 0
+Creating dataset: mnist
+Creating model: cnn
+True
+==> Epoch 1/50
+Batch 50/1481	 Loss 1.386794 
+Batch 100/1481	 Loss 1.409098 
+Batch 150/1481	 Loss 1.338967 
+Batch 200/1481	 Loss 1.137759 

@@ -1,0 +1,5 @@
+Currently using GPU: 0, 1
+Creating dataset: UTK
+Creating model: cnn
+==> Epoch 1/50
+Batch 50/1481	 Loss 1.386895 
